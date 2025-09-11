@@ -14,7 +14,7 @@
 <div align="center">
   <h1>digiying</h1>
   <p align="center">
-  <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
+  <img src="assets/images/ying.jpg" width="100%" />
   </p>
   <p>Connect with developers, contribute ideas, and stay ahead with the latest AI-powered coding tools.</p>
   
