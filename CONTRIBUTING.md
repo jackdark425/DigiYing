@@ -13,7 +13,7 @@
 
 # Contributing to Roo Code
 
-Roo Code is a community-driven project, and we deeply value every contribution. To streamline collaboration, we operate on an [Issue-First](#issue-first-approach) basis, meaning all [Pull Requests (PRs)](#submitting-a-pull-request) must first be linked to a GitHub Issue. Please review this guide carefully.
+This is a fork project, and we welcome all contributions. You can contribute through direct commits or Pull Requests. Please review this guide carefully.
 
 ## Table of Contents
 
@@ -65,17 +65,15 @@ Mention alignment with these areas in your PRs.
 - **New Features:** Adding functionality.
 - **Documentation:** Improving guides and clarity.
 
-### Issue-First Approach
+### Contribution Approaches
 
-All contributions must begin with a GitHub Issue.
+You can contribute in the following ways:
 
-- **Check existing issues**: Search [GitHub Issues](https://github.com/RooCodeInc/Roo-Code/issues).
-- **Create an issue**: Use appropriate templates:
-    - **Bugs:** "Bug Report" template.
-    - **Features:** "Detailed Feature Proposal" template. Approval required before starting.
-- **Claim issues**: Comment and await official assignment.
+- **Direct Commits**: Push changes directly to the main branch for quick fixes and improvements.
+- **Pull Requests**: Create PRs for larger changes or when you want feedback.
+- **Issues**: Optionally create issues to track bugs or feature requests.
 
-**PRs without approved issues may be closed.**
+**All contribution methods are welcome.**
 
 ### Deciding What to Work On
 
@@ -121,17 +119,17 @@ pnpm install
 - Provide screenshots/videos for UI changes.
 - Indicate if documentation updates are necessary.
 
-### Pull Request Policy
+### Pull Request Guidelines
 
-- Must reference pre-approved, assigned issues.
-- PRs without adherence to the policy may be closed.
-- PRs should pass CI tests, align with the roadmap, and have clear documentation.
+- PRs should ideally pass CI tests when available.
+- Clear documentation of changes is recommended.
+- For larger changes, consider creating a draft PR for early feedback.
 
 ### Review Process
 
-- **Daily Triage:** Quick checks by maintainers.
-- **Weekly In-depth Review:** Comprehensive assessment.
-- **Iterate promptly** based on feedback.
+- For Pull Requests: Review by maintainers when available.
+- For direct commits: Self-review and testing recommended.
+- Feedback and iterations are welcome.
 
 ## Legal
 

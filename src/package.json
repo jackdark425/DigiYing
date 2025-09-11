@@ -2,7 +2,7 @@
 	"name": "digiying",
 	"displayName": "%extension.displayName%",
 	"description": "%extension.description%",
-	"publisher": "digiying",
+	"publisher": "Jackdark425",
 	"version": "3.27.0",
 	"icon": "assets/images/ying.jpg",
 	"galleryBanner": {

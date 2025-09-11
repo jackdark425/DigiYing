@@ -1,14 +1,14 @@
 <!--
-Thank you for contributing to Roo Code!
+Thank you for contributing to this project!
 
 Before submitting your PR, please ensure:
-- It's linked to an approved GitHub Issue.
-- You've reviewed our [Contributing Guidelines](../CONTRIBUTING.md).
+- You've tested your changes.
+- Your code follows the project's coding standards.
 -->
 
-### Related GitHub Issue
+### Related GitHub Issue (Optional)
 
-<!-- Every PR MUST be linked to an approved issue. -->
+<!-- Link to related GitHub Issue if applicable. -->
 
 Closes: # <!-- Replace with the issue number, e.g., Closes: #123 -->
 
@@ -42,7 +42,7 @@ Detail the steps to test your changes. This helps reviewers verify your work.
 
 <!-- Go through this checklist before marking your PR as ready for review. -->
 
-- [ ] **Issue Linked**: This PR is linked to an approved GitHub Issue (see "Related GitHub Issue" above).
+- [ ] **Issue Linked**: This PR is linked to a GitHub Issue (see "Related GitHub Issue" above, optional).
 - [ ] **Scope**: My changes are focused on the linked issue (one major feature/fix per PR).
 - [ ] **Self-Review**: I have performed a thorough self-review of my code.
 - [ ] **Testing**: New and/or updated tests have been added to cover my changes (if applicable).
