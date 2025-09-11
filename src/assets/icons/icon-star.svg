@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Five-pointed star for main icon -->
+  <path d="M256 76 L295 176 L400 176 L312 232 L340 332 L256 284 L172 332 L200 232 L112 176 L217 176 Z" fill="#FFD700" stroke="#FFA500" stroke-width="8"/>
+  <!-- Add some shadow/glow effect -->
+  <path d="M256 76 L295 176 L400 176 L312 232 L340 332 L256 284 L172 332 L200 232 L112 176 L217 176 Z" fill="none" stroke="#FF6B35" stroke-width="4" opacity="0.3"/>
+</svg>

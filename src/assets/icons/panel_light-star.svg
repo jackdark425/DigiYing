@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Five-pointed star for panel icon (light theme) -->
+  <path d="M12 3 L13.8 8.4 L19.8 8.4 L15 12.24 L16.38 18.6 L12 15 L7.62 18.6 L9 12.24 L4.2 8.4 L10.2 8.4 Z" fill="#FF6B35"/>
+  <!-- Add subtle glow for light theme -->
+  <path d="M12 3 L13.8 8.4 L19.8 8.4 L15 12.24 L16.38 18.6 L12 15 L7.62 18.6 L9 12.24 L4.2 8.4 L10.2 8.4 Z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.6"/>
+</svg>

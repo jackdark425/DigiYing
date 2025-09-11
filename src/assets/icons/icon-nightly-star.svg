@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Five-pointed star for nightly icon - clean and centered -->
+  <path d="M256 100 L294 200 L394 200 L313 258 L343 350 L256 296 L169 350 L199 258 L118 200 L218 200 Z" fill="#FFD700" stroke="#FFA500" stroke-width="8"/>
+  <!-- Add some shadow/glow effect -->
+  <path d="M256 100 L294 200 L394 200 L313 258 L343 350 L256 296 L169 350 L199 258 L118 200 L218 200 Z" fill="none" stroke="#FF6B35" stroke-width="4" opacity="0.3"/>
+</svg>

@@ -4,7 +4,7 @@
 	"description": "%extension.description%",
 	"publisher": "digiying",
 	"version": "3.27.0",
-	"icon": "assets/icons/icon.png",
+	"icon": "assets/images/ying.jpg",
 	"galleryBanner": {
 		"color": "#617A91",
 		"theme": "dark"
